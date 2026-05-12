@@ -41,6 +41,8 @@ The primary objectives of this project are:
 
 ## 🛠️ Tools & Technologies Used
 
+- Microsoft Power BI
+- Microsoft Excel
 - DAX
 - Power Query
 - Data Cleaning
