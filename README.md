@@ -6,7 +6,7 @@ The aviation industry plays a critical role in global transportation, connecting
 
 Airline operations generate massive amounts of data related to flight schedules, delays, cancellations, airport congestion, and operational efficiency. Analyzing this data helps airlines improve punctuality, reduce operational costs, and enhance passenger experience.
 
-<img src="images/aviation_banner.jpg" width="900">
+<img src="images/aviation_banner.avif" width="900">
 
 ---
 
