@@ -18,6 +18,14 @@ The dashboard provides detailed insights into airline operational performance, d
 
 ---
 
+# 🏆 Hackathon Context
+
+This dashboard was developed during Round 2 of a data analytics hackathon focused on airline operational performance and business intelligence.
+
+The challenge involved analyzing large-scale airline data to identify delay patterns, operational inefficiencies, and performance trends using interactive visualizations and data-driven insights.
+
+---
+
 ## 🎯 Project Objective
 
 The primary objectives of this project are:
